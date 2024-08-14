@@ -1,6 +1,6 @@
  
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩14ꫂ<br></h1>
+<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩15ꫂ<br></h1>
 <p align="center">
 <img src="https://i.ibb.co/RC7JWDj/e258b5ae2b1cf8195d33743570dbe498.jpg" />
 </p>
@@ -59,11 +59,10 @@ Cheems Bot Multi Device is a whatsapp bot developed by <a href="https://github.c
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Charlottebots/CHEEMS_BOT_V14/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Charlottebots/CHEEMS_MD_15/fork)
 
 ## `Generate Pair Code For Session`
-[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Xeon-PairCode)
-
+[![Xeon](https://repl.it/badge/github/quiec/whatsasena)](https://xeon-pair-code.onrender.com/)
 ## ` BUILDPACKS`
 
 ```
